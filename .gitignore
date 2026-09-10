@@ -15,7 +15,10 @@ node_modules
 /.idea
 .project
 .classpath
-.c9/
+.c9//dist
+/node_modules
+*.log
+.env
 *.launch
 .settings/
 *.sublime-workspace
